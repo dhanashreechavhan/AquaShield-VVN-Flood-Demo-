@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/community/uploads/*
+!data/community/uploads/.gitkeep
+data/community/reports.sqlite*
+.cache/
+tmp/
+output/share/*.zip
